@@ -1,1 +1,1 @@
-# Test script to domeonstrate git workflow
+# Test script to demonstrate git workflow
